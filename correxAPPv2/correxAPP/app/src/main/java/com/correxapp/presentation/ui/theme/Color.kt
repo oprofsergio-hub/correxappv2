@@ -1,0 +1,33 @@
+package com.correxapp.presentation.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val PrimaryLight = Color(0xFF00658E)
+val OnPrimaryLight = Color(0xFFFFFFFF)
+val PrimaryContainerLight = Color(0xFFC7E7FF)
+val OnPrimaryContainerLight = Color(0xFF001E2E)
+val SecondaryLight = Color(0xFF4F616E)
+val OnSecondaryLight = Color(0xFFFFFFFF)
+val SecondaryContainerLight = Color(0xFFD2E5F5)
+val OnSecondaryContainerLight = Color(0xFF0B1D29)
+val ErrorLight = Color(0xFFBA1A1A)
+val OnErrorLight = Color(0xFFFFFFFF)
+val BackgroundLight = Color(0xFFF8F9FC)
+val OnBackgroundLight = Color(0xFF191C1E)
+val SurfaceLight = Color(0xFFF8F9FC)
+val OnSurfaceLight = Color(0xFF191C1E)
+
+val PrimaryDark = Color(0xFF85CFFF)
+val OnPrimaryDark = Color(0xFF00344C)
+val PrimaryContainerDark = Color(0xFF004C6C)
+val OnPrimaryContainerDark = Color(0xFFC7E7FF)
+val SecondaryDark = Color(0xFFB6C9D8)
+val OnSecondaryDark = Color(0xFF21323E)
+val SecondaryContainerDark = Color(0xFF374955)
+val OnSecondaryContainerDark = Color(0xFFD2E5F5)
+val ErrorDark = Color(0xFFFFB4AB)
+val OnErrorDark = Color(0xFF690005)
+val BackgroundDark = Color(0xFF191C1E)
+val OnBackgroundDark = Color(0xFFE1E2E5)
+val SurfaceDark = Color(0xFF191C1E)
+val OnSurfaceDark = Color(0xFFE1E2E5)

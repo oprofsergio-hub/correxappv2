@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CorrexAPP</string>
+    <string name="app_name_long">Correx - OMR Scanner</string>
+
+    <!-- Navigation -->
+    <string name="back">Voltar</string>
+    <string name="settings">Configurações</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="loading">Carregando…</string>
+
+    <!-- Dashboard -->
+    <string name="my_exams">Minhas Provas</string>
+    <string name="total_exams">Total de Provas</string>
+    <string name="corrected_sheets">Folhas Corrigidas</string>
+    <string name="average_score">Nota Média</string>
+    <string name="no_exams_created_yet">Nenhuma prova criada ainda</string>
+
+    <!-- Create Exam -->
+    <string name="create_exam">Criar Prova</string>
+    <string name="exam_name">Nome da Prova</string>
+    <string name="subject">Disciplina</string>
+    <string name="number_of_questions">Número de Questões</string>
+    <string name="alternatives">Alternativas</string>
+    <string name="answer_key">Gabarito</string>
+    <string name="save_exam">Salvar Prova</string>
+    <string name="questions_short">%d questões</string>
+
+    <!-- Exam Details -->
+    <string name="generate_pdf">Gerar PDF</string>
+    <string name="scan_sheet">Escanear Folha</string>
+    <string name="corrected_sheets_title">Folhas Corrigidas</string>
+    <string name="no_sheets_corrected_for_this_exam">Nenhuma folha corrigida para esta prova</string>
+    <string name="exam_details_subtitle">Questões: %1$d de %2$d</string>
+    <string name="error_loading_exam">Erro ao carregar prova: %s</string>
+
+    <!-- Scan -->
+    <string name="camera_permission_required">Permissão de câmera necessária para escanear</string>
+    <string name="student_score">Nota: %.1f%%</string>
+
+    <!-- Messages -->
+    <string name="success">Sucesso</string>
+    <string name="error">Erro</string>
+</resources>
